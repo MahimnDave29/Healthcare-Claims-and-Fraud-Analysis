@@ -30,10 +30,10 @@ Diagnosis vs Fraud Patterns
 Length of Stay vs Cost
 
 ### Visualization
-Histograms
-Boxplots
-Bar charts
-Stacked distributions
+Histograms,
+Boxplots,
+Bar charts,
+Stacked distributions,
 Heatmaps
 
 ## Insights: 
