@@ -36,10 +36,10 @@ Heatmaps
 
 ## Insights: 
 Age:
-Uniform distribution across all age groups
-No age bias in claims
+Uniform distribution across all age groups.
+No age bias in claims.
 Amount Billed:
-Right-skewed distribution
+Right-skewed distribution.
 Presence of high-cost outliers
 Length of Stay:
 Most patients have short stays
