@@ -34,19 +34,23 @@ Bar charts,
 Stacked distributions,
 Heatmaps
 
-## Insights: 
-Age:
-Uniform distribution across all age groups.
-No age bias in claims.
-Amount Billed:
-Right-skewed distribution.
-Presence of high-cost outliers
-Length of Stay:
-Most patients have short stays
-Few cases with unusually long durations
-Cost per Day:
-Highly skewed distribution
-Extreme values suggest potential billing inflation
+## Insights
+
+**Age**  
+Uniform distribution across all age groups.  
+No age bias in claims.  
+
+**Amount Billed**  
+Right-skewed distribution.  
+Presence of high-cost outliers.  
+
+**Length of Stay**  
+Most patients have short stays.  
+Few cases with unusually long durations.  
+
+**Cost per Day**  
+Highly skewed distribution.  
+Extreme values suggest potential billing inflation.
 
 ## Tech Stack:
 Python(NumPy, Pandas, MatPlotlib, Seaborn)
