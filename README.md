@@ -15,7 +15,7 @@ Checked for duplicate values. No duplicates found.
 Dataset is clean.
 
 Created new features:
-Length of Stay
+Length of Stay,
 Cost per Day
 
 ## Analysis Performed
@@ -25,9 +25,7 @@ Descriptive statistics
 
 ### Bivariate Analysis
 Relationship between:
-Fraud Type vs Billing Amount
-Diagnosis vs Fraud Patterns
-Length of Stay vs Cost
+Fraud Type vs Billing Amount, Diagnosis vs Fraud Patterns, and Length of Stay vs Cost
 
 ### Visualization
 Histograms,
@@ -37,16 +35,16 @@ Stacked distributions,
 Heatmaps
 
 ## Insights: 
-Age
+Age:
 Uniform distribution across all age groups
 No age bias in claims
-Amount Billed
+Amount Billed:
 Right-skewed distribution
 Presence of high-cost outliers
-Length of Stay
+Length of Stay:
 Most patients have short stays
 Few cases with unusually long durations
-Cost per Day
+Cost per Day:
 Highly skewed distribution
 Extreme values suggest potential billing inflation
 
