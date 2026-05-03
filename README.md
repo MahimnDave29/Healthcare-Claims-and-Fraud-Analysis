@@ -1,7 +1,7 @@
-# Exploratory Data Analysis on Healthcare Claims Data
+# Healthcare Claims and Fraud Data Analysis - EDA and PowerBI Report
 
 ## Project Overview:
-This project performs Exploratory Data Analysis (EDA) on a healthcare claims dataset to uncover patterns, anomalies, and potential indicators of fraud.
+This project performs Exploratory Data Analysis (EDA) on a healthcare claims dataset to uncover patterns, anomalies, and potential indicators of fraud and insights are represented in PowerBI report.
 
 ## Data Source:
 https://www.kaggle.com/datasets/bonifacechosen/nhis-healthcare-claims-and-fraud-dataset/versions/1
@@ -53,5 +53,5 @@ Highly skewed distribution.
 Extreme values suggest potential billing inflation.
 
 ## Tech Stack:
-Python(NumPy, Pandas, MatPlotlib, Seaborn)
+Python(NumPy, Pandas, MatPlotlib, Seaborn), PowerBI (DAX)
 
