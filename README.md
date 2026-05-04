@@ -6,6 +6,12 @@ This project performs Exploratory Data Analysis (EDA) on a healthcare claims dat
 ## Data Source:
 https://www.kaggle.com/datasets/bonifacechosen/nhis-healthcare-claims-and-fraud-dataset/versions/1
 
+## Report:
+<img width="1430" height="812" alt="image" src="https://github.com/user-attachments/assets/724a1d4f-d7be-41fa-b021-cf1513c75445" />
+<img width="1436" height="820" alt="image" src="https://github.com/user-attachments/assets/3cdc696c-0616-4e41-a068-a7ab1dadcc18" />
+<img width="1437" height="797" alt="image" src="https://github.com/user-attachments/assets/0ce13034-3a3b-4ec2-bb9c-de8a18dee7d9" />
+<img width="1424" height="694" alt="image" src="https://github.com/user-attachments/assets/d95f7185-27df-4e1b-9095-8ce544c90589" />
+
 ## Data Preprocessing
 
 Converted date columns to datetime format.
